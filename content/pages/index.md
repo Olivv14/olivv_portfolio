@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: OliverVega
+title: Oliver Vega
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
