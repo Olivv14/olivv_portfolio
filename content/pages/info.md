@@ -23,6 +23,7 @@ sections:
       type: ImageBlock
       url: /images/about.jpg
       altText: Hero image
+      elementId: image
     styles:
       self:
         height: auto
