@@ -12,8 +12,8 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a Web Application Development student, freelance developer, and
+      content creator focused on Cybersecurity and Fintech.
     subtitle: >-
       My focus is simple: creating efficient web solutions and tools. Here is
       the work that combines my Web Development studies with practical
