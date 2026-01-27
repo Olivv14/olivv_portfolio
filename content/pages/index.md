@@ -17,9 +17,9 @@ sections:
       I’m a Web Application Development student, freelance developer, and
       content creator focused on Cybersecurity and Fintech
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      My focus is simple: creating efficient web solutions and tools. Here is
+      the work that combines my Web Development studies with practical
+      automation projects. Scroll down for the credentials.
     styles:
       self:
         height: auto
